@@ -1,5 +1,4 @@
 # psid-income-analysis
-Analyzed household income using PSID data with OLS regression and statistical techniques to identify key predictors and examine changes over time.
 
 ## Overview
 This project analyzes household income using data from the Panel Study of Income Dynamics (PSID). The goal was to identify key factors that influence income and examine how these relationships change over time.
