@@ -1,7 +1,5 @@
 # psid-income-analysis
 
-# Household Income Analysis (PSID Data)
-
 ## Overview
 This project analyzes household income using data from the Panel Study of Income Dynamics (PSID). The goal was to identify key factors that influence income and examine how these relationships change over time.
 
